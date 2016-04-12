@@ -1,0 +1,4 @@
+1. Explain inheritance:
+  Inheritance is happening when a class of objects are defined, any subclass can inherit the definition of one or more general classes. This means that the subclass doesn't need to carry its own definition of data.
+2. Explain polymorphism:
+  Polymorphism is an object-oriented concept that refers to the ability of variable, object or funtion to take on multiple forms. In this case, the programmer can work in general instead of program in specific.
